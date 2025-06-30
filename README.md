@@ -66,4 +66,4 @@ Acel: X=0.01g, Y=-0.02g, Z=1.01g  |  Giro: X=-0.55°/s, Y=0.89°/s, Z=-0.14°/s
 
 ✍️ Autor
 
-  ASCCJR
+  [ASCCJR]
