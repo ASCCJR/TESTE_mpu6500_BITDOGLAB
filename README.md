@@ -4,7 +4,7 @@
 ![Plataforma](https://img.shields.io/badge/Plataforma-Raspberry%20Pi%20Pico-purple.svg)
 ![Sensor](https://img.shields.io/badge/Sensor-MPU6500-green.svg)
 
-Este repositório contém um código teste  para o sensor de movimento de 6 eixos (IMU - Unidade de Medição Inercial) MPU-6500. O código foi desenvolvido em C para a BITDOGLAB
+Este repositório contém um código teste  para o sensor de movimento de 6 eixos (IMU - Unidade de Medição Inercial) MPU-6500. O código foi desenvolvido em C para a BITDOGLAB.
 
 O projeto demonstra uma implementação limpa de um driver de sensor, separando a lógica de baixo nível (`mpu6500.c`, `.h`) da aplicação de teste (`main.c`). Além de ler os dados brutos, o programa já os converte para unidades físicas padrão, tornando a saída de dados intuitiva e pronta para uso.
 
