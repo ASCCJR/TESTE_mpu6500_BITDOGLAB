@@ -1,3 +1,12 @@
+/**
+ * @file mpu6500.h
+ * @brief Define a interface pública (API) para o driver do sensor IMU MPU-6500.
+ *
+ * Este arquivo de cabeçalho declara as estruturas de dados e as funções
+ * que podem ser chamadas por outras partes do sistema para interagir com
+ * o sensor de movimento de 6 eixos.
+ */
+
 #ifndef MPU6500_H
 #define MPU6500_H
 
