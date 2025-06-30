@@ -48,7 +48,7 @@ const uint I2C_SDA_PIN = 0;
 const uint I2C_SCL_PIN = 1;
 ```
 ## Visualizar a Saída
-* Conecte o sensor AHT10 na porta I2C configurada
+* Conecte o sensor MPU-6500 na porta I2C configurada.
 * Abra um monitor serial conectado à porta COM do seu Pico.
 * Você verá a seguinte saída, atualizada a cada 200ms:
 ```bash
