@@ -6,6 +6,10 @@
  * ler os dados brutos dos registradores do acelerômetro e giroscópio.
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #include "mpu6500.h"
 #include "pico/stdlib.h"
 
