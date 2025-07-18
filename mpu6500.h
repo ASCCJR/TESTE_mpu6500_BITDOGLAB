@@ -7,6 +7,10 @@
  * o sensor de movimento de 6 eixos.
  */
 
+/**
+ * https://github.com/ASCCJR
+ */
+
 #ifndef MPU6500_H
 #define MPU6500_H
 
