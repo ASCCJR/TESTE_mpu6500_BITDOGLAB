@@ -59,11 +59,11 @@ Acel: X=0.01g, Y=-0.02g, Z=1.00g  |  Giro: X=-0.54°/s, Y=0.88°/s, Z=-0.15°/s
 Acel: X=0.01g, Y=-0.02g, Z=1.01g  |  Giro: X=-0.55°/s, Y=0.89°/s, Z=-0.14°/s
 ```
 ## 📂 Estrutura dos Arquivos
-* main.c: A aplicação principal. Orquestra a inicialização e o loop de leitura, e converte os dados para unidades físicas.
+* main.c: A aplicação principal. Faz a inicialização e o loop de leitura, e converte os dados para unidades físicas.
 * mpu6500.c: A implementação do driver do sensor, contendo a lógica de comunicação I2C e leitura dos registradores.
 * mpu6500.h: O arquivo de cabeçalho (a interface ou API) para o driver do MPU-6500.
 * CMakeLists.txt: O arquivo de build do projeto.
 
 ✍️ Autor
 
-  [ASCCJR]
+Antonio Sergio Castro de Carvalho Junior
